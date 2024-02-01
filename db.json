@@ -1,0 +1,34 @@
+{
+  "alunos": [
+    {
+      "id": "2",
+      "nome": "Maria Cardoso Garcia",
+      "email": "maria@gmail.com"
+    },
+    {
+      "id": "5dd8",
+      "nome": "Raydel garcia",
+      "email": "raydel@teste.com"
+    },
+    {
+      "id": "2fba",
+      "nome": "Juan Gonzalez",
+      "email": "rgarciagorrin@gmail.com"
+    },
+    {
+      "id": "5f4e",
+      "nome": "Joao Guzman",
+      "email": "joao@gmail.com"
+    },
+    {
+      "id": "a0be",
+      "nome": "Karlimar Ilarraza Tamaronis",
+      "email": "karlimar@gmail.com"
+    },
+    {
+      "id": "6b0a",
+      "nome": "Kevin Garcia",
+      "email": "kevin@teste.com"
+    }
+  ]
+}
